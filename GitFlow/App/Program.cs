@@ -10,6 +10,7 @@
             Console.ReadLine();
 
 #warning This Code Should die
+#warning If this code doesn't die, kill it now
         }
     }
 }
