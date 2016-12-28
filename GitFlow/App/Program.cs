@@ -9,6 +9,7 @@
             Console.WriteLine("Good morning");
             Console.ReadLine();
 
+#warning This Code Should die
         }
     }
 }
